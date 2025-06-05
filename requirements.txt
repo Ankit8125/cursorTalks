@@ -8,3 +8,5 @@ langgraph-checkpoint-mongodb
 langchain-openai
 openai
 dotenv
+openai[voice_helpers]
+langchain_community

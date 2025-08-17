@@ -9,6 +9,9 @@ A browser-free, voice-controlled AI assistant that listens to your programming r
 [Click Me](https://www.linkedin.com/posts/ankitverma2405_ai-voiceai-langgraph-activity-7336432387381186560-EjWg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD71VEwBP7ZRSi8tg3UY6TvDQGDcwL9wlps)
 
 ---
+## Execution Flowchart
+<img width="2987" height="975" alt="Cursor" src="https://github.com/user-attachments/assets/5050843e-1621-4049-85b0-5eadbd7f512d" />
+
 
 ## ✨ Features
 - 🎤 **Voice-controlled input**: Talk to the assistant using natural speech.

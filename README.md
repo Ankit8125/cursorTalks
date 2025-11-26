@@ -93,5 +93,5 @@ python app/main.py
 - Build a web-based version using microphone API
 - Logging interface for executed plans and tool calls
 
-### 👨‍💻 Author: Ankit Verma
+### 👨‍💻 Author: Ankit Verma and Chirag Bhuwalka
 📄 MIT License – Feel free to use, modify and distribute!
